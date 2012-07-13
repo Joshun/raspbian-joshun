@@ -11,7 +11,11 @@ The image is mastered using the raspbian installer, and the custom scripts were 
 
 Customising the image is easy - change its files, then run /etc/raspi-setup/initial-boot
 
+
+Initial boot password:raspberry
+
 Username:pi Password:raspberry
+
 
 This image has been set up to use 'sudo' for authentication instead of su. After the initial raspi-setup script has written configuration, the normal root account gets locked, to discourage using it.
 
