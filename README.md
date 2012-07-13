@@ -22,4 +22,9 @@ Image Builds:
 http://dl.dropbox.com/u/24027029/Raspbian%20Builds/raspbian-joshun-130712.img.7z
 Size: Compressed=264MB Image=1.4GB
 
-Linux: install the p7zip package. Windows: http://www.7-zip.org/download.html Mac: download 'unofficial' 7zip from windows download page.
+How to handle 7-zip files
+=========================
+
+* Linux: install the p7zip package. 
+* Windows: http://www.7-zip.org/download.html 
+* Mac: download 'unofficial' 7zip from windows download page or brew install p7zip (if you have homebrew)
