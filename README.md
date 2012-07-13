@@ -13,7 +13,6 @@ Customising the image is easy - change its files, then run /etc/raspi-setup/init
 
 
 Initial boot password:raspberry
-
 Username:pi Password:raspberry
 
 
@@ -21,3 +20,6 @@ This image has been set up to use 'sudo' for authentication instead of su. After
 
 Image Builds:
 http://dl.dropbox.com/u/24027029/Raspbian%20Builds/raspbian-joshun-130712.img.7z
+Size: Compressed=264MB Image=1.4GB
+
+Linux: install the p7zip package. Windows: http://www.7-zip.org/download.html Mac: download 'unofficial' 7zip from windows download page.
