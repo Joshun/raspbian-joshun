@@ -1,0 +1,11 @@
+if [ "$USER" != "root" ]; then echo 'This script must be run as root.'; exit; fi
+apt-get clean
+rm /home/pi/.bash_history
+rm /root/.bash_history
+usermod -U root
+echo "# Initial first run boot" > /boot/config.txt
+touch /etc/raspi-setup/firstrun
+touch /etc/raspi-setup/wizardrun
+rm /etc/raspi-setup/config/*
+cp /etc/raspi-setup/defaults/initial-cmdline /boot/cmdline.txt
+echo 'Initial config set'
