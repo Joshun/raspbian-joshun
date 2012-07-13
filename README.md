@@ -20,3 +20,6 @@ was used to skip copying unused disk space from the SD Card.
 
 Customising the image is easy - change its files, then run
 /etc/raspi-setup/initial-boot
+
+Builds of this image:
+[currently uploading]
