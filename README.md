@@ -34,3 +34,6 @@ How to handle 7-zip files
 * Linux: install the p7zip package. 
 * Windows: http://www.7-zip.org/download.html 
 * Mac: download 'unofficial' 7zip from windows download page or brew install p7zip (if you have homebrew)
+
+[Getting Started](https://github.com/Joshun/raspbian-joshun/wiki/Getting-Started)
+=================================================================================
