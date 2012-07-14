@@ -11,6 +11,7 @@ The image is mastered using the raspbian installer, and the custom scripts were 
 
 Customising the image is easy - change its files, then run /etc/raspi-setup/initial-boot
 
+Related forum thread: http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=11128&sid=5c8cb5fb9b21bc00c4db0e96abe33c48
 
 Initial boot password:raspberry
 Username:pi Password:raspberry
