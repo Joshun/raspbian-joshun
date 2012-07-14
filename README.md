@@ -19,7 +19,9 @@ Username:pi Password:raspberry
 
 This image has been set up to use 'sudo' for authentication instead of su. After the initial raspi-setup script has written configuration, the normal root account gets locked, to discourage using it.
 
-Image Builds:
+Image Builds
+============
+
 http://dl.dropbox.com/u/24027029/Raspbian%20Builds/raspbian-joshun-130712.img.7z
 
 Size: Compressed=264MB Image=1.4GB
