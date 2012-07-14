@@ -21,6 +21,7 @@ This image has been set up to use 'sudo' for authentication instead of su. After
 
 Image Builds:
 http://dl.dropbox.com/u/24027029/Raspbian%20Builds/raspbian-joshun-130712.img.7z
+
 Size: Compressed=264MB Image=1.4GB
 
 How to handle 7-zip files
