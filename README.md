@@ -18,7 +18,8 @@ Related forum thread: http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=111
 Image Builds
 ============
 
-https://github.com/downloads/Joshun/raspbian-joshun/raspbian-joshun-150712.img.7z
+[raspbian-joshun-150712](https://github.com/downloads/Joshun/raspbian-joshun/raspbian-joshun-150712.img.7z)
+
 Size: Compressed=264MB Image=1.4GB
 
 **Username:pi Password:raspberry**
