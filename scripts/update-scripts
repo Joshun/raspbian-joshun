@@ -1,6 +1,6 @@
 #!/bin/bash
 UPDATE_URI=git://github.com/Joshun/raspbian-joshun.git
-CONF_DIR=/home/joshua/Desktop/testgit
+CONF_DIR=/etc/raspi-setup/update
 STORE="$CONF_DIR/update_revision"
 REPO=raspbian-joshun
 newline()
