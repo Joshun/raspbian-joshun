@@ -153,7 +153,7 @@ localemenu()
 	selectchoice
 	case $choice in
 	1 ) dpkg-reconfigure tzdata ;;
-	2 ) dpkg-reconfigure console-data ;;
+	2 ) dpkg-reconfigure keyboard-configuration ;;
 	3 ) dpkg-reconfigure locales ;;
 	4 ) toplevel ;;
 	*) localemenu ;;
