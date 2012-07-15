@@ -1,0 +1,9 @@
+#!/bin/bash
+CONF_DIR=/home/joshua/Desktop/testgit
+REPO=raspbian-joshun
+SCRIPTS="$CONF_DIR/$REPO/scripts"
+echo 'Updates now installing...'
+cp "$SCRIPTS/raspi-setup" /usr/bin
+cp "$SCRIPTS/desktop-setup" /usr/bin
+cp "$SCRIPTS/initial-boot" /usr/bin
+echo 'Scripts updated.'
