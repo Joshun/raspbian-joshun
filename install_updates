@@ -1,6 +1,6 @@
 #!/bin/bash
 echo 'Update installer v1.1'
-CONF_DIR=/home/joshua/Desktop/testgit
+CONF_DIR=/etc/raspi-setup/update
 REPO=raspbian-joshun
 SCRIPTS="$CONF_DIR/$REPO/scripts"
 cp "$SCRIPTS/raspi-setup" /usr/bin
