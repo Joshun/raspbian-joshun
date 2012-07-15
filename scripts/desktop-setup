@@ -142,18 +142,17 @@ webbrowser()
 {
 	clear
 	echo 'Choose web browser:'
-	printmenu "midori" "arora" "netsurf" "galeon" "links" "links2" "lynx" "w3m" "skip"
+	printmenu "midori" "arora" "netsurf" "links" "links2" "lynx" "w3m" "skip"
 	selectchoice
 	case $choice in
 		1 ) webbrowse=midori ;;
 		2 ) webbrowse=arora ;;
 		3 ) webbrowse=netsurf ;;
-		4 ) webbrowse=galeon ;;
-		5 ) webbrowse=links ;;
-		6 ) webbrowse=links2 ;;
-		7 ) webbrowse=lynx ;;
-		8 ) webbrowse=w3m ;;
-		9 ) webbrowse="" ;;
+		4 ) webbrowse=links ;;
+		5 ) webbrowse=links2 ;;
+		6 ) webbrowse=lynx ;;
+		7 ) webbrowse=w3m ;;
+		8 ) webbrowse="" ;;
 		* ) webbrowser ;;
 	esac
 	officesuite
