@@ -1,5 +1,5 @@
 #!/bin/bash
-echo 'Update installer v1.1'
+echo 'Update installer v1.2'
 CONF_DIR=/etc/raspi-setup/update
 REPO=raspbian-joshun
 SCRIPTS="$CONF_DIR/$REPO/scripts"
